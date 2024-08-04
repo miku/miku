@@ -9,4 +9,4 @@ Things I'm doing or have done:
 * assembling findings into [talks and workshops](https://github.com/miku/workshops)
 * answering questions on [Stack Overflow](https://stackoverflow.com/users/89391/miku?tab=profile)
 
-I live on the [terminal](https://web.stanford.edu/class/cs81n/command.txt).
+I live on the [command line](https://web.stanford.edu/class/cs81n/command.txt).
