@@ -7,6 +7,6 @@ Things I'm doing or have done:
 * reading and writing [books](https://openlibrary.org/authors/OL7497124A/Martin_Czygan) and [papers](https://scholar.google.de/citations?user=7gueY4EAAAAJ)
 * organizing [meetups](https://golangleipzig.space)
 * assembling findings into [talks and workshops](https://github.com/miku/workshops)
-* answering questions on [Stack Overflow](https://stackoverflow.com/users/89391/miku?tab=profile)
+* answering questions on [Stack Overflow](https://stackoverflow.com/users/89391/miku?tab=profile) ([data releases](https://meta.stackexchange.com/a/224922/139491))
 
 I live on the [command line](https://web.stanford.edu/class/cs81n/command.txt).
