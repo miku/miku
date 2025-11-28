@@ -10,3 +10,5 @@ Things I'm doing or have done:
 * answering questions on [Stack Overflow](https://stackoverflow.com/users/89391/miku?tab=profile) ([data releases](https://meta.stackexchange.com/a/224922/139491))
 
 I live on the [command line](https://web.stanford.edu/class/cs81n/command.txt).
+
+[![](v.gif)](https://gifitup.net/en/gif-it-up-entry/2371/)
