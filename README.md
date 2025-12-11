@@ -11,4 +11,4 @@ Things I'm doing or have done:
 
 I live on the [command line](https://web.stanford.edu/class/cs81n/command.txt).
 
-[![](v.gif)](https://gifitup.net/en/gif-it-up-entry/2371/)
+<!-- [![](v.gif)](https://gifitup.net/en/gif-it-up-entry/2371/) -->
